@@ -9,7 +9,7 @@
     "zone.js": "0.8.29",
     "ngf-server": "1.0.2",
     "@types/node": "8.9.5",
-    "@angular/core": "6.1.10",
+    "@angular/core": "11.0.5",
     "@angular/http": "6.1.10",
     "ngf-bootstrap": "0.0.5",
     "@angular/forms": "6.1.10",
